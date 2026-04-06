@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/player/pil/re1/proto_tyrant/em3802"
+                "$halflambert" 1
+                 "$bumpmap" "models/player/pil/re1/proto_tyrant/em3802_NRM"
+
+}

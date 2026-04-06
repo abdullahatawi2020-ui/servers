@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/amberlyn/re5/tentacle_crap_majini/slow_shirt"
+	"$bumpmap" "models/player/slow/amberlyn/re5/majini_spade/slow_shirt_bump"
+
+	"$phong" 			"1"
+	"$phongexponent" 		"3"
+	"$phongboost"		"1.5"
+	"$phongfresnelranges"	"[.05 .1 .2]"
+}

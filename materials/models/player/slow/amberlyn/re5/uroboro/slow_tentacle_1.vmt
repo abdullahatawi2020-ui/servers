@@ -1,0 +1,26 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/amberlyn/re5/uroboro/slow_tentacle_1"
+	"$bumpmap" "models/player/slow/amberlyn/re5/uroboro/slow_tentacle_bump"
+
+	"$phong" 			"1"
+	"$phongexponent" 		"15"
+	"$phongboost"		"5"
+	"$phongfresnelranges"	"[.05 .1 .2]"
+
+	Proxies
+	{
+		TextureScroll
+		{
+			texturescrollvar 		"$baseTextureTransform"
+			texturescrollrate 	".1"
+			texturescrollangle 	"0"
+		}
+		TextureScroll
+		{
+			texturescrollvar 		"$bumptransform"
+			texturescrollrate 	".1"
+			texturescrollangle 	"0"
+		}
+	}
+}

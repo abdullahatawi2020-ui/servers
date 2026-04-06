@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/amberlyn/re5/uroboro/slow_meat_1"
+	"$bumpmap" "models/player/slow/amberlyn/re5/uroboro/slow_meat_1_bump"
+
+	"$phong" 			"1"
+	"$phongexponent" 		"10"
+	"$phongboost"		"7"
+	"$phongfresnelranges"	"[.05 .1 .2]"
+}

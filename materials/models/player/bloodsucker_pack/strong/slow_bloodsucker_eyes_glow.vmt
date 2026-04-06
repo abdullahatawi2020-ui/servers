@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/player/slow/bloodsucker_pack/strong/slow_bloodsucker_eyes_glow"
+
+	"$model" 1
+	"$additive" 1
+	"$nocull" 1
+}

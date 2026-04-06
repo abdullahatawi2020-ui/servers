@@ -1,0 +1,8 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/amberlyn/re5/uroboro/slow_meatball"
+	"$bumpmap" "models/player/slow/amberlyn/re5/uroboro/slow_meatball_bump"
+
+	"$selfillum" 1
+	"$selfillumtint" "{231 86 37}"
+}

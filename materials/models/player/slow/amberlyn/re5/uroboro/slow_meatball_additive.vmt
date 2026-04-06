@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/amberlyn/re5/uroboro/slow_meatball_additive"
+	"$bumpmap" "models/player/slow/amberlyn/re5/uroboro/slow_meatball_bump"
+
+	"$additive" 1
+
+
+	"$phong" 			"1"
+	"$phongexponent" 		"2"
+	"$phongboost"		"35"
+	"$phongfresnelranges"	"[.05 .1 .2]"
+}

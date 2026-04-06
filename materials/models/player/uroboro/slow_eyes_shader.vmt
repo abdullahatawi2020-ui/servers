@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/slow/amberlyn/re5/uroboro/slow_phong"
+
+	"$additive" 1
+
+	"$phong" 			"1"
+	"$phongexponent" 		"120"
+	"$phongboost"		"20"
+	"$phongfresnelranges"	"[.05 .1 .2]"
+}
