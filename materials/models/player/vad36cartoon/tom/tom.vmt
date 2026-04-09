@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/vad36cartoon/tom/tom"
+	$envmap env_cubemap
+	$envmaptint "[ .01 .01 .02 ]"
+	$normalmapalphaenvmapmask 1
+}
